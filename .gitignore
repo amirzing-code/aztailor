@@ -1,0 +1,3 @@
+# Gambar asal (resolusi penuh) — website guna versi .webp
+assets/img/*.png
+!assets/img/qr-code.png
